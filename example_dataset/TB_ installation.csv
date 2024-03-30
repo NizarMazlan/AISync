@@ -1,0 +1,11 @@
+installation_id,serial_num,location_id,installation_date
+1,AIS17BA00XXXXX,1,Transfer of Stock
+2,AIS21CA00XXXXX,2,Transfer of Stock
+3,AIS23PD00XXXXX,3,Installation
+4,RSYA0501XXXXX,4,Return
+5,AIS22PD02XXXXX,5,Lab Test
+6,AIS17DA00XXXXX,6,Return From Lab
+7,AIS21CA00XXXXX,7,Return From Lab
+8,PUAS041015XXXXX,8,Transfer of Stock
+9,AIS17PA03XXXXX,8,Installation
+10,AIS23PD03XXXXX,9,Installation

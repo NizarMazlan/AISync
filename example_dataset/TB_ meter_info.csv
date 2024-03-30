@@ -1,0 +1,104 @@
+serial_num,location_id,meter_type,manufacturer,model,manufactured_year,meter_size,warranty_info
+01W0XXXXX,2,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,HELIX  (X 10),2019,150,1 year warranty
+02W0XXXXX,2,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,HELIX  (X 10),2019,150,2 year warranty
+92182XXXXX,7,Mechanical Meter - Cast Iron & Piston Volumetric Type,George Kent Malaysia,"MASTER METER 2000 4"" METER",2019,100,1.5 year warranty
+92673XXXXX,5,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Sensus,Meinecke 100mm,2020,100,2 year warranty
+94602XXXXX,4,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Sensus,Meinecke 100mm,2021,100,2 year warranty
+949407XXXXX,5,Mechanical Meter - Cast Iron & Piston Volumetric Type,George Kent Malaysia,"MASTER METER 2000 4"" METER",2019,100,1.5 year warranty
+94945XXXXX,4,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Sensus,Meinecke 100mm,2019,100,2 year warranty
+AIS16PB01XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2020,15,3 year warranty
+AIS17BA00XXXXX,5,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 15mm,2021,15,4 year warranty
+AIS17CA00XXXXX,6,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,"PSM METER 3/4"" METER",2021,20,2 year warranty
+AIS17DA00XXXXX,5,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 25mm,2019,25,2 year warranty
+AIS17F00XXXXX,6,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO  50MM METER,2019,50,1.5 year warranty
+AIS17FA00XXXXX,10,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2019,50,3 year warranty
+AIS17GA00XXXXX,3,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2020,80,2 year warranty
+AIS17GA0XXXXX,4,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2021,80,2 year warranty
+AIS17H00XXXXX,5,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2019,100,2 year warranty
+AIS17HA00XXXXX,5,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2019,100,1.5 year warranty
+AIS17PA00XXXXX,10,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020,15,2 year warranty
+AIS17PA02XXXXX,6,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021,15,1.5 year warranty
+AIS17PA03XXXXX,3,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021,15,2 year warranty
+AIS17PB00XXXXX,8,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2019,15,2 year warranty
+AIS18EMXXXXX,3,Electromagnetic Flowmeter,ABB,"ABB AQUAMASTER 3 3"" METER (75MM / 80MM)",2019,80,3 year warranty
+AIS18HA00XXXXX,1,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2019,100,4 year warranty
+AIS18JA00XXXXX,5,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,"HELIX 4000 6"" METER ( 150 MM )",2020,150,2 year warranty
+AIS18PA01XXXXX,7,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021,15,2 year warranty
+AIS18PA02XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,2 year warranty
+AIS18PA03XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,1.5 year warranty
+AIS18PA04XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020,15,3 year warranty
+AIS19BA00XXXXX,2,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 15mm,2021,15,5 year warranty
+AIS19DA00XXXXX,4,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 25mm,2021,25,5 year warranty
+AIS19EA00XXXXX,4,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 40mm,2019,40,6 year warranty
+AIS19PA00XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,2 year warranty
+AIS19PA01XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,2 year warranty
+AIS19PA02XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020,15,2 year warranty
+AIS19PA03XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021,15,5 year warranty
+AIS20CA00XXXXX,7,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2019,20,1.5 year warranty
+AIS20DA00XXXXX,1,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 25mm,2019,25,2 year warranty
+AIS20EA00XXXXX,5,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 40mm,2020,40,2 year warranty
+AIS20FA00XXXXX,1,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2021,50,2 year warranty
+AIS20GA00XXXXX,5,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2021,80,1.5 year warranty
+AIS20JA00XXXXX,5,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,"HELIX 4000 6"" METER ( 150 MM )",2019,150,2 year warranty
+AIS20PA00XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,3 year warranty
+AIS20PA01XXXXX,10,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,1.5 year warranty
+AIS20PA02XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020,15,2 year warranty
+AIS20PA03XXXXX,3,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021,15,2 year warranty
+AIS20PA04XXXXX,2,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,1.5 year warranty
+AIS21BA00XXXXX,5,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 15mm,2019,15,2 year warranty
+AIS21CA00XXXXX,3,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2020,20,2 year warranty
+AIS21FA00XXXXX,4,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2021,50,3 year warranty
+AIS21HA00XXXXX,5,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2021,100,1.5 year warranty
+AIS21PA00XXXXX,2,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,2 year warranty
+AIS21PA01XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,2 year warranty
+AIS21PA02XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019,15,4 year warranty
+AIS21PA03XXXXX,9,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020,15,1.5 year warranty
+AIS21PD00XXXXX,6,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2021,15,2 year warranty
+AIS21PD01XXXXX,2,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2019,15,2 year warranty
+AIS21PE00XXXXX,7,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2019,15,2 year warranty
+AIS22CA00XXXXX,1,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2020,20,2 year warranty
+AIS22DD00XXXXX,1,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 25mm,2022,25,1.5 year warranty
+AIS22ED00XXXXX,7,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 40mm,2022,40,3 year warranty
+AIS22FA00XXXXX,1,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2022,50,3 year warranty
+AIS22GA00XXXXX,1,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2022,80,2 year warranty
+AIS22HA00XXXXX,7,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2022,100,5 year warranty
+AIS22PA00XXXXX,1,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2022,15,3 year warranty
+AIS22PD00XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022,15,4 year warranty
+AIS22PD01XXXXX,2,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022,15,3 year warranty
+AIS22PD02XXXXX,3,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023,15,2 year warranty
+AIS22PD03XXXXX,2,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2018,15,1.5 year warranty
+AIS22PD04XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2019,15,4 year warranty
+AIS22PE00XXXXX,3,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2019,15,2 year warranty
+AIS23BD00XXXXX,1,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 15mm,2020,15,4 year warranty
+AIS23CE00XXXXX,5,Mechanical Meter - Brass Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,Brass Meter 20mm,2021,20,1.5 year warranty
+AIS23DD00XXXXX,3,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 25mm,2019,25,2 year warranty
+AIS23JG00XXXXX,9,Mechanical Meter - Ductile Iron Body & Woltmann Type,Progressive Crest Sdn Bhd,Ductile Iron 150mm,2019,150,2 year warranty
+AIS23PD00XXXXX,3,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2020,15,5 year warranty
+AIS23PD01XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022,15,1.5 year warranty
+AIS23PD02XXXXX,3,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023,15,2 year warranty
+AIS23PD03XXXXX,2,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2018,15,4 year warranty
+AIS23PE00XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2022,15,2 year warranty
+AIS23PE01XXXXX,3,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2023,15,5 year warranty
+AIS23PF00XXXXX,4,Ultrasonic Flowmeter,KAMSTRUP,FLOWIQ2200- AMI KAMSTRUP FLOWMETER DN15,2018,15,2 year warranty
+PS02XXXXX,5,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,"PSM METER 3/4"" METER",2022,20,2 year warranty
+PUAS041015XXXXX,1,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,"HELIX METER 6"" METER",2023,150,2 year warranty
+RSYA0501XXXXX,2,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 15B 15mm,2018,15,1.5 year warranty
+SYA 06XXXXX,1,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2022,100,2 year warranty
+SYA06XXXXX,3,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 75MM / 80MM METER,2023,80,2 year warranty
+SYA08H00XXXXX,4,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2018,100,2 year warranty
+SYA09H00XXXXX,4,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2022,100,2 year warranty
+SYA11H00XXXXX,10,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2023,100,2 year warranty
+SYA12H00XXXXX,10,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2018,100,2 year warranty
+SYA13H00XXXXX,6,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2022,100,2 year warranty
+SYA13P02XXXXX,5,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2023,15,2 year warranty
+SYA14C00XXXXX,5,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 20B 20mm,2018,20,1.5 year warranty
+SYA14F00XXXXX,1,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO  50MM METER,2022,50,1.5 year warranty
+SYA14J00XXXXX,8,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NINGBO (X 10),2023,150,3 year warranty
+SYA14P00XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2018,15,4 year warranty
+SYA15D00XXXXX,6,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 25B 25mm,2022,25,1.5 year warranty
+SYA15E00XXXXX,9,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 40B 40mm,2023,40,2 year warranty
+SYA15F00XXXXX,4,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO  50MM METER,2018,50,2 year warranty
+SYA15H00XXXXX,3,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2022,100,1.5 year warranty
+SYA15J00XXXXX,3,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NINGBO (X 10),2023,150,2 year warranty
+SYA15P01XXXXX,9,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2022,15,1.5 year warranty
+SYA16P01XXXXX,4,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2023,15,1.5 year warranty
